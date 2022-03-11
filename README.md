@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sykez42 and I'm an Electronic Engineer
 - 👀 I’m interested in music, cats, digital illustration and coding, of course
-- 🌱 I’m currently learning C
+- 🌱 I’m currently learning C#
 - 📫 How to reach me: Instagram @gio_1097, Telegram @Sykez_42
 
 <!---
